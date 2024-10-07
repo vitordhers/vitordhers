@@ -15,7 +15,7 @@ I'm Vitor, an economist turned developer with a passion for leveraging blockchai
 My current focus is on exploring Rust's potential for Fullstack applications using the LAST Stack (Leptos + Actix + SurrealDb + Tauri) and zero-knowledge proof tools like zkSync and Solana's Confidential Token Extension to enhance compression, confidentiality, and credibility in smart contracts.
 
 ###
-- 🔭 I’m currently working on: <b>Agnus Daily, Glow HFT Rust Framework </b>
+- 🔭 I’m currently working on: <b>Agnus Daily, Glow Quant Rust Framework </b>
 - 🌱 I’m currently learning: <b> zkProof algorithms and tools </b>
 
 ## </>Tech
