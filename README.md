@@ -1,6 +1,6 @@
 # Vitor Dhers
 
-**Economist | Blockchain Engineer**
+**Economist | Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/vitordhers)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/vitordhers)
